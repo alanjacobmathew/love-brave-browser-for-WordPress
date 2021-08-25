@@ -3,7 +3,7 @@ Shout-out your love for [Brave Browser](https://brave.com). Supports Gutenberg B
 
 ### Description ###
 
-A simple WordPress Block plugin to shout-out your love for Brave Browser. The only functionality of this plugin is for webmasters to insert a Block in WordPress Widget or in between posts that'll create an awareness among website visitors the importance of ' ***Privacy*** ' and ' ***Tracking Free Internet Experience*** ' that can be achieved using [Brave Browser](https://brave.com).
+A simple WordPress Block plugin to shout-out your love for Brave Browser. The only functionality of this plugin is for webmasters to insert a Block in WordPress Widget or in between posts that'll create an awareness among website about [Brave Browser](https://brave.com) and show visitors the importance of ' ***Privacy*** ' and ' ***Tracking Free Internet Experience*** ' .
 
 Current version: `0.1.0`
 
