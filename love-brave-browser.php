@@ -1,13 +1,12 @@
 <?php
 /**
  * Plugin Name:       Love Brave Browser
- * Plugin URI: 
  * Description:       Shoutout your love for Brave Browser.
  * Requires at least: 5.7
  * Requires PHP:      7.0
  * Version:           0.1.0
  * Author:            Alan Jacob Mathew
- * 
+ * Author URI:	      https://profiles.wordpress.org/alanjacobmathew/
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       love-brave-browser
