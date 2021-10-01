@@ -51,7 +51,7 @@ function brave_browser_shoutout_block_render() {
 // shortcode for classic editor lovers  [with_love_brave]
 function love_brave_shortcode() {
 	$link_address = "https://brave.com";
-   return 'For better internet experience use &#10084; <a href="'.$link_address.'" target="_blank"> Brave Browser </a> <br>';
+   return __("For better internet experience use &#10084;", "love-brave-browser"). '<a href="'.$link_address.'" target="_blank"> Brave Browser </a> <br>';
 }
 
 add_shortcode( 'with_love_brave', 'love_brave_shortcode' );
