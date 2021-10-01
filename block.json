@@ -4,7 +4,7 @@
 	"title": "Love Brave Browser",
 	"category": "widgets",
 	"keywords": [ "Brave Browser", "Privacy Browser" ],
-	"icon": "smiley",
+	"icon": "heart",
 	"description": "Shoutout your love for Brave Browser",
 	"textdomain": "love-brave-browser",
 	"editorScript": "file:./index.js"
