@@ -45,13 +45,17 @@ add_action( 'init', 'brave_browser_shoutout_block_init' );
 function brave_browser_shoutout_block_render() {
 
 	$link_address = "https://brave.com";
-	return __("For better internet experience use &#10084; ", "love-brave-browser"). '<a href="'.$link_address.'" target="_blank">Brave Browser </a> <br>';
+	return __("For better internet experience use &#10084; ", "love-brave-browser") . 
+       '<a href="' . $link_address . '" target="_blank" rel="nofollow noreferrer ugc noopener">Brave Browser</a> <br>';
+
 }
 
 // shortcode for classic editor lovers  [with_love_brave]
 function love_brave_shortcode() {
 	$link_address = "https://brave.com";
-   return __("For better internet experience use &#10084;", "love-brave-browser"). '<a href="'.$link_address.'" target="_blank"> Brave Browser </a> <br>';
+	return __("For better internet experience use &#10084; ", "love-brave-browser") . 
+       '<a href="' . $link_address . '" target="_blank" rel="nofollow noreferrer ugc noopener">Brave Browser</a> <br>';
+	
 }
 
 add_shortcode( 'with_love_brave', 'love_brave_shortcode' );
