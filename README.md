@@ -5,7 +5,7 @@ Shout-out your love for [Brave Browser](https://brave.com). Supports Gutenberg B
 
 A simple WordPress Block plugin to shout-out your love for Brave Browser. The only functionality of this plugin is for webmasters(Brave Browser fans) to insert a Block in WordPress Widget that'll create an awareness about [Brave Browser](https://brave.com) and the importance of ' ***Privacy*** ' and ' ***Tracking Free Internet Experience*** ' .
 
-Current version: `0.1.0`
+Current version: `1.0.1`
 
 ### Credit Where Credit's Due  ###
 
@@ -23,9 +23,12 @@ This section describes how to install the plugin and get it working.
 Users who doesn't use the Gutenberg Block editor can still make use of this plugin along with the Classic Editor or Classic Widget.
 - You can use the shortcode `[with_love_brave]` anywhere in the widget section to insert Love Brave Browser shout-out
 
-Current version: `0.1.0`
+Current version: `1.0.1`
 
-
+== Changelog ==
+= 1.0.1 =
+* Add nofollow, noopener and noreferrer to the external link.
+* Thanks to [webVerts](https://fame.authifyweb.com/user/na1) for the [commit](https://github.com/alanjacobmathew/love-brave-browser-for-WordPress/pull/7/commits/eb2cfd29ab28c3566a13e1cb855f96c987996f16)
 
 = 0.1.0 =
 * Initial Release
